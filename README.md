@@ -8,3 +8,6 @@ The notebooks were executed in Python 3.9.18. Cuda 11.8 was used with Torch 2.1.
   ```
   pip install torch==2.1.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
   ```
+
+Final Paper:
+[finetuning_history_182_final_project.pdf](https://github.com/user-attachments/files/18615329/finetuning_history_182_final_project.pdf)
